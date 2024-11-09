@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Ege Çenberci (he/him), formerly physics and currently a computer science student in Bilkent University.
+I am Ege Çenberci (he/him), a computer science graduate from Bilkent University.
 
 <!--
 **egecenberci/egecenberci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
